@@ -1,5 +1,5 @@
 # BattleBoar | Russian Devloper
-** Разработчик ОС EYOS | Энтузиаст**
+** Разработчик ОС EYOS | Энтузиаст **
 
 ![Коменты](https://img.shields.io/github/commit-activity/m/BattleBoar/EYOS---Operating-System?color=blue&label=EYOS%20Commits)
 ![Последний комент](https://img.shields.io/github/last-commit/BattleBoar/EYOS---Operating-System?color=green&label=Last%20Update)
