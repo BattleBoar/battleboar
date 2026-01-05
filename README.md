@@ -33,7 +33,7 @@
 ![Коменты](https://img.shields.io/github/commit-activity/m/BattleBoar/EYOS---Operating-System?color=blue&label=EYOS%20Commits)
 ![Последний комент](https://img.shields.io/github/last-commit/BattleBoar/EYOS---Operating-System?color=green&label=Last%20Update)
 
-![Главстата](https://github-readme-stats.vercel.app/api?username=battleboar&show_icons=true&bg_color=00000000)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=battleboar&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 ---
 
