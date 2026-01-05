@@ -51,6 +51,7 @@
 ---
 
 ## **Мои цели в разработках**
+  - [+] начать делать EYOS
   - [ ] Завершить базовое ядро EYOS
   - [ ] Реализовать многозадачность в EYOS
   - [ ] Написать драйвер файловой системы
@@ -65,16 +66,13 @@
 
 ### **Операционки**
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge)
+![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white&style=for-the-badge)
 ![ZSH](https://img.shields.io/badge/ZSH-000000?logo=zsh&logoColor=white&style=for-the-badge)
 ![Hyprland](https://img.shields.io/badge/Hyprland-4455bb?logo=wayland&logoColor=white&style=for-the-badge)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![Kitty](https://img.shields.io/badge/Kitty-000000?logo=kitty&logoColor=white&style=for-the-badge)
 
-![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white&style=for-the-badge)
-![ZSH](https://img.shields.io/badge/ZSH-000000?logo=zsh&logoColor=white&style=for-the-badge)
-![i3](https://img.shields.io/badge/i3-4455bb?logo=wayland&logoColor=white&style=for-the-badge)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
-![Kitty](https://img.shields.io/badge/Kitty-000000?logo=kitty&logoColor=white&style=for-the-badge)
+
 
 ### **Железо**
 ![Intel](https://img.shields.io/badge/Intel-Core_i5_13600KF-0071C5?logo=intel&logoColor=white&style=for-the-badge)
