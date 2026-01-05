@@ -5,11 +5,11 @@
 
 ## Мой стек и окружение
 
-###  **Операционные системы & Дистрибутивы**
+###  **Операционные системы**
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white&style=for-the-badge)
 
-### **Языки программирования & Ассемблер**
+### **Языки программирования
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
 
