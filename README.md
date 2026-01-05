@@ -65,27 +65,16 @@
 ## **Мое рабочее окружение**
 <div align="center">
 
-### **Software**
-| | | |
-|:---:|:---:|:---:|
-| <img src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png" width="20"> **Arch** | <img src="https://www.zsh.org/img/zsh-logo.png" width="20"> **ZSH** | <img src="https://hyprland.org/assets/img/hyprland_logo.svg" width="20"> **Hyprland** |
-| x86_64 | 5.9 | Wayland |
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge)
+![ZSH](https://img.shields.io/badge/ZSH-000000?logo=zsh&logoColor=white&style=for-the-badge)
+![Hyprland](https://img.shields.io/badge/Hyprland-4455bb?logo=wayland&logoColor=white&style=for-the-badge)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+![Kitty](https://img.shields.io/badge/Kitty-000000?logo=kitty&logoColor=white&style=for-the-badge)
 
-### **Hardware**
-| Component | Specs |
-|:---------:|:------|
-| **CPU** | Intel i5-13600KF (14C/20T) |
-| **GPU** | NVIDIA RTX 3060 Ti 8GB |
-| **RAM** | 32GB DDR5 (3200MHz) |
-| **Storage** | NVMe SSD 1TB |
-| **Display** | Dual FHD @ 120Hz + 60Hz |
+### **Hardware Badges**
+![Intel](https://img.shields.io/badge/Intel-Core_i5_13600KF-0071C5?logo=intel&logoColor=white&style=for-the-badge)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-RTX_3060_Ti-76B900?logo=nvidia&logoColor=white&style=for-the-badge)
+![DDR5](https://img.shields.io/badge/RAM-32GB_DDR5-000000?style=for-the-badge)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-4B_8GB-C51A4A?logo=raspberry-pi&logoColor=white&style=for-the-badge)
 
-### **Raspberry Pi**
-<img src="https://www.raspberrypi.com/app/uploads/2022/02/COLOUR-Raspberry-Pi-Symbol-Registered.png" width="100">
-
-**Model:** 4B 8GB  
-**OS:** Raspberry Pi OS  
-**Arch:** ARMv8-64  
-**Purpose:** Home server / Testing
-
-</div>
+**Monitors:** 2× FHD (120Hz + 60Hz) | **VR:** Oculus Rift-S
