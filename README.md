@@ -1,6 +1,7 @@
 # BattleBoar | Russian Devloper
 ** Разработчик ОС EYOS | Энтузиаст**
-![Repository Stars](https://github-readme-stats.vercel.app/api/pin/?username=BattleBoar&repo=EYOS---Operating-System&theme=radical&hide_border=true&bg_color=0d1117&title_color=ce09ec&text_color=9f9f9f&border_radius=10)
+![Коменты](https://img.shields.io/github/commit-activity/m/BattleBoar/EYOS---Operating-System?color=blue&label=EYOS%20Commits)
+![Последний комент](https://img.shields.io/github/last-commit/BattleBoar/EYOS---Operating-System?color=green&label=Last%20Update)
 
 ---
 
@@ -28,9 +29,6 @@
 ![Multiboot](https://img.shields.io/badge/Multiboot-8E8E8E?style=for-the-badge)
 ![ELF](https://img.shields.io/badge/ELF-8E8E8E?style=for-the-badge)
 ![GRUB](https://img.shields.io/badge/GRUB-8E8E8E?style=for-the-badge)
-
-![Коменты](https://img.shields.io/github/commit-activity/m/BattleBoar/EYOS---Operating-System?color=blue&label=EYOS%20Commits)
-![Последний комент](https://img.shields.io/github/last-commit/BattleBoar/EYOS---Operating-System?color=green&label=Last%20Update)
 
 ---
 
