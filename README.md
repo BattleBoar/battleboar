@@ -30,7 +30,7 @@
 ![GRUB](https://img.shields.io/badge/GRUB-8E8E8E?style=for-the-badge)
 
 ### **Статистика**
-[![wakatime]](https://wakatime.com/@battleboar)
+
 
 ---
 
@@ -63,26 +63,29 @@
 ---
 
 ## **Мое рабочее окружение**
-```bash
-# OS
-OS: Arch Linux x86_64
-Kernel: 6.18
-Shell: zsh 5.9
-Terminal: Kitty
-WM: HyprLand Wayland
-Editor: VSCode, Nano
-Theme: Adwaita [GTK2/3/4]
+<div align="center">
 
-# PC
-MotherBoard: Z690 X
-CPU: i5-13600KF
-Memory: 31925MiB (16/16)
-GPU: GeForce RTX 3060 Ti
-Monitors: 1920x1080 120hz, 1920x1080 60hz
-VR: Oculus Rift-S
+### **Software**
+| | | |
+|:---:|:---:|:---:|
+| <img src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png" width="20"> **Arch** | <img src="https://www.zsh.org/img/zsh-logo.png" width="20"> **ZSH** | <img src="https://hyprland.org/assets/img/hyprland_logo.svg" width="20"> **Hyprland** |
+| x86_64 | 5.9 | Wayland |
 
-# Rassbery Pi
-OS: RassberyOS
-Archh: ARMv8-64
-Version: 4B
-Memory: 8GB
+### **Hardware**
+| Component | Specs |
+|:---------:|:------|
+| **CPU** | Intel i5-13600KF (14C/20T) |
+| **GPU** | NVIDIA RTX 3060 Ti 8GB |
+| **RAM** | 32GB DDR5 (3200MHz) |
+| **Storage** | NVMe SSD 1TB |
+| **Display** | Dual FHD @ 120Hz + 60Hz |
+
+### **Raspberry Pi**
+<img src="https://www.raspberrypi.com/app/uploads/2022/02/COLOUR-Raspberry-Pi-Symbol-Registered.png" width="100">
+
+**Model:** 4B 8GB  
+**OS:** Raspberry Pi OS  
+**Arch:** ARMv8-64  
+**Purpose:** Home server / Testing
+
+</div>
