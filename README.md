@@ -33,7 +33,7 @@
 ![Коменты](https://img.shields.io/github/commit-activity/m/BattleBoar/EYOS---Operating-System?color=blue&label=EYOS%20Commits)
 ![Последний комент](https://img.shields.io/github/last-commit/BattleBoar/EYOS---Operating-System?color=green&label=Last%20Update)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=BattleBoar&theme=radical&hide_border=true&background=0d1117&ring=ce09ec&fire=ce09ec&currStreakLabel=ce09ec)
+![Главстата](https://github-readme-stats.vercel.app/api?username=battleboar&show_icons=true&bg_color=00000000)
 
 ---
 
