@@ -32,8 +32,7 @@
 
 ![Коменты](https://img.shields.io/github/commit-activity/m/BattleBoar/EYOS---Operating-System?color=blue&label=EYOS%20Commits)
 ![Последний комент](https://img.shields.io/github/last-commit/BattleBoar/EYOS---Operating-System?color=green&label=Last%20Update)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BattleBoar&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ce09ec&text_color=9f9f9f&langs_count=10&size_weight=0.5&count_weight=0.5&hide=html,css,scss,less,blade,shell&exclude_repo=EYOS---Operating-System)
+![Звёздочки](https://github-readme-stats.vercel.app/api/pin/?username=BattleBoar&repo=EYOS---Operating-System&theme=radical&hide_border=true&bg_color=0d1117&title_color=ce09ec&text_color=9f9f9f&border_radius=10)
 
 ---
 
