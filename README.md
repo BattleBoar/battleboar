@@ -30,6 +30,8 @@
 
 ### **Статистика**
 
+![Коменты](https://img.shields.io/github/commit-activity/m/BattleBoar/EYOS---Operating-System?color=blue&label=EYOS%20Commits)
+![Последний комент](https://img.shields.io/github/last-commit/BattleBoar/EYOS---Operating-System?color=green&label=Last%20Update)
 
 ---
 
@@ -51,7 +53,7 @@
 ---
 
 ## **Мои цели в разработках**
-  - [ ] начать делать EYOS
+  - [x] начать делать EYOS
   - [ ] Завершить базовое ядро EYOS
   - [ ] Реализовать многозадачность в EYOS
   - [ ] Написать драйвер файловой системы
