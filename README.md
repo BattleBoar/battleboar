@@ -1,5 +1,5 @@
 # BattleBoar | Russian Devloper
-**| Разработчик ОС EYOS | Энтузиаст**
+** Разработчик ОС EYOS | Энтузиаст**
 
 ---
 
@@ -28,6 +28,9 @@
 ![Multiboot](https://img.shields.io/badge/Multiboot-8E8E8E?style=for-the-badge)
 ![ELF](https://img.shields.io/badge/ELF-8E8E8E?style=for-the-badge)
 ![GRUB](https://img.shields.io/badge/GRUB-8E8E8E?style=for-the-badge)
+
+### **Статистика**
+[![wakatime]](https://wakatime.com/@battleboar)
 
 ---
 
