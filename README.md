@@ -15,13 +15,12 @@
 
 ### **Инструменты разработки**
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
-![GCC](https://img.shields.io/badge/GCC-F05032?logo=gnu&logoColor=white&style=for-the-badge)
-![GDB](https://img.shields.io/badge/GDB-FF6F00?logo=gnu-debugger&logoColor=white&style=for-the-badge)
+![GCC - G++](https://img.shields.io/badge/GCC-F05032?logo=gnu&logoColor=white&style=for-the-badge)
 ![Make](https://img.shields.io/badge/Make-FF6F00?logo=cmake&logoColor=white&style=for-the-badge)
+![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Zsh](https://img.shields.io/badge/Zsh-FF6F00?logo=zsh&logoColor=white&style=for-the-badge)
 ![QEMU](https://img.shields.io/badge/QEMU-FF6600?logo=qemu&logoColor=white&style=for-the-badge)
-![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white&style=for-the-badge)
 
 ### **Технологии низкого уровня**
 ![x86 Assembly](https://img.shields.io/badge/x86_64-8E8E8E?style=for-the-badge)
@@ -58,23 +57,29 @@
   - [ ] Популяризировать EYOS
   - [ ] Сделать ARM и 32bit поддержку
   - [ ] Сделать 3D движок на C++/Vulkan
-  - [ ] Сдлать игру на своем движке
+  - [ ] Сделать игру на своем движке
 
 ---
 
 ## **Мое рабочее окружение**
-<div align="center">
 
+### **Операционки**
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge)
 ![ZSH](https://img.shields.io/badge/ZSH-000000?logo=zsh&logoColor=white&style=for-the-badge)
 ![Hyprland](https://img.shields.io/badge/Hyprland-4455bb?logo=wayland&logoColor=white&style=for-the-badge)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![Kitty](https://img.shields.io/badge/Kitty-000000?logo=kitty&logoColor=white&style=for-the-badge)
 
-### **Hardware Badges**
+![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white&style=for-the-badge)
+![ZSH](https://img.shields.io/badge/ZSH-000000?logo=zsh&logoColor=white&style=for-the-badge)
+![i3](https://img.shields.io/badge/i3-4455bb?logo=wayland&logoColor=white&style=for-the-badge)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+![Kitty](https://img.shields.io/badge/Kitty-000000?logo=kitty&logoColor=white&style=for-the-badge)
+
+### **Железо**
 ![Intel](https://img.shields.io/badge/Intel-Core_i5_13600KF-0071C5?logo=intel&logoColor=white&style=for-the-badge)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-RTX_3060_Ti-76B900?logo=nvidia&logoColor=white&style=for-the-badge)
-![DDR5](https://img.shields.io/badge/RAM-32GB_DDR5-000000?style=for-the-badge)
+![DDR4](https://img.shields.io/badge/RAM-32GB_DDR4-000000?style=for-the-badge)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-4B_8GB-C51A4A?logo=raspberry-pi&logoColor=white&style=for-the-badge)
 
-**Monitors:** 2× FHD (120Hz + 60Hz) | **VR:** Oculus Rift-S
+**Мониторы:** 2× FHD (120Hz + 60Hz) | **VR:** Oculus Rift-S
