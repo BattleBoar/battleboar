@@ -38,7 +38,7 @@
 ### **[EYOS - Operating System](https://github.com/BattleBoar/EYOS---Operating-System)**
 Собственная операционная система с нуля. 
 
-**Стек:** C++/:11-17, NASM, GRUB2, MultiBoot2, QEMU, Make
+**Стек:** C++/:23 C:/20, NASM, GRUB2, MultiBoot2, QEMU, Make
 
 **Особенности:**
 - Базовая поддержка железа
