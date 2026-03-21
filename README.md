@@ -12,8 +12,8 @@
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge)
 
 ### **Языки программирования**
+![ASM](https://img.shields.io/badge/N%2FF%2FG-FF8C00?style=for-the-badge&label=Assembly&color=hex%20%23ff8c00)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
 
 ### **Инструменты разработки**
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
