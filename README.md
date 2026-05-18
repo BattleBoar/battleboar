@@ -42,4 +42,27 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-4B_8GB-C51A4A?logo=raspberry-pi&logoColor=white&style=for-the-badge)
 
 **Мониторы:** 2× FHD (120Hz + 60Hz) | **VR:** Oculus Rift-S
-sudo apt install libatlas-base-dev libjpeg-dev libtiff5-dev libpng-dev libavcodec-dev libavformat-dev libswscale-dev python3-pyqt5 -y
+from rpicv2 import Camera
+import cv2
+
+# Инициализация камеры
+cam = Camera(width=640, height=480, fps=30)
+
+print("Камера запущена. Нажми 'q' для выхода.")
+
+while True:
+    # Получаем кадр
+    frame = cam.read()
+    
+    if frame is not None:
+        # Показываем кадр
+        cv2.imshow('Raspberry Pi Camera', frame)
+    
+    # Выход по клавише 'q'
+    if cv2.waitKey(1) & 0xFF == ord('q'):
+        break
+
+# Освобождаем ресурсы
+cam.release()
+cv2.destroyAllWindows()
+print("Программа завершена.")
