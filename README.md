@@ -42,3 +42,4 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-4B_8GB-C51A4A?logo=raspberry-pi&logoColor=white&style=for-the-badge)
 
 **Мониторы:** 2× FHD (120Hz + 60Hz) | **VR:** Oculus Rift-S
+sudo apt install libatlas-base-dev libjpeg-dev libtiff5-dev libpng-dev libavcodec-dev libavformat-dev libswscale-dev python3-pyqt5 -y
